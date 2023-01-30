@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Input Number Extension",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "My Extension"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "scripting",
+        "cookies",
+        "declarativeContent",
+        "storage"
+    ]
+}
