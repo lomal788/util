@@ -1,11 +1,23 @@
 {
     "manifest_version": 3,
-    "name": "Input Number Extension",
+    "name": "Extension",
     "version": "1.0",
     "action": {
         "default_popup": "index.html",
-        "default_title": "My Extension"
+        "default_title": "Extension"
     },
+    "content_scripts":[
+        {
+        "js":["inject.js"],
+        "matches":["<all_urls>"]
+        }
+    ],
+    "web_accessible_resources":[
+        {
+            "resources":["/*","background.js"],
+            "matches":["<all_urls>"]
+        }
+    ],
     "background": {
         "service_worker": "background.js"
     },
