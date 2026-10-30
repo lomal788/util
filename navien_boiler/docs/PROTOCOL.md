@@ -81,6 +81,46 @@ B→S 07 상태          S→B 6b 응답
 … 이후 하트비트, 조회, 제어
 ```
 
+## WiFi 등록 (프로비저닝)
+
+`captures/PCAPdroid_30_Oct_14_35_40.pcap`(폰에서 PCAPdroid로 캡처)으로 해독했습니다. 구현은 `tools/provision.py`입니다.
+
+- 설정 모드 진입: **보일러를 끈 상태에서 조절기의 [+] 버튼을 3초간** 누릅니다.
+- 설정 모드에서는 보일러가 **암호 없는 AP `NR40-xxxx`**(xxxx는 기기마다 다름. 이 기기는 `NR40-8264`, BSSID는 모듈 MAC + 1)를 엽니다.
+  - 보일러 주소: `192.168.43.1`
+  - 접속한 기기 주소: `192.168.43.100`부터 할당
+- 통신 방식: **평문 HTTP** `POST http://192.168.43.1/process_data.json`, `Content-Type: application/json`
+  - 요청 하나를 처리하면 연결을 닫습니다. 요청마다 새로 연결하세요.
+- 클라우드 토큰, 사용자 ID, 서버 주소는 **전혀 보내지 않습니다.** WiFi 정보만 넘깁니다.
+
+요청 형식:
+
+```json
+{"command_id":"kdoneNNN","command_type":"<type>","request_value":"get|set"}
+```
+
+응답 형식:
+
+```json
+{"command_id":"incteNNN","command_type":"<type>","response_value":"ok","data":...}
+```
+
+| 순서 | command_id | command_type / request_value | 응답 data |
+|---|---|---|---|
+| 1 | `kdone001` | `validproduct` / `get` | `""` |
+| 2 | `kdone003` | `productid` / `get` | `"047863a6e14a4204"` (MAC + `4204`) |
+| 3 | `kdone004` | `scan` / `set` | `""` (검색 시작) |
+| 4 | `kdone005` | `scan` / `get` (약 5초 뒤) | `{"scan list":[{"no","ssid","bssid","ch","rssi","security","pairwise","group","wps","mode"}, ...]}` |
+| 5 | `kdone006` | `join` / `set` + `data` | `""` → 보일러가 해당 WiFi로 접속하고 AP가 사라짐 |
+
+`join`의 `data`는 **키 하나짜리 객체들의 목록**이고, 순서는 아래와 같습니다. `bssid`부터 `group`까지는 scan 결과의 값을 그대로 넣습니다.
+
+```json
+[{"ssid":"…"},{"password":"…"},{"bssid":"B0:38:6C:…"},{"ch":"03"},{"security":"WPA2-PSK"},{"pairwise":"CCMP"},{"group":"CCMP"}]
+```
+
+> 설정용 AP는 암호화되지 않아서, 등록하는 동안 집 WiFi 비밀번호가 평문으로 공중에 오갑니다. 등록은 짧게 끝내세요.
+
 ## 미해독
 
 - 등록(`02`)과 설정(`05`) payload의 세부 필드
