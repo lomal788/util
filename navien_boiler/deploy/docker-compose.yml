@@ -1,10 +1,14 @@
 # Fully local Navien NR-400 control.
-#   dnsmasq : answers krst2.naviensmartcontrol.com with HOST_IP, forwards everything else upstream
 #   navien  : stand-in for the cloud on TCP 7000, control API on HTTP 8080
-# Usage: set HOST_IP in .env, then `docker compose up -d --build`
+#   dns     : optional dnsmasq that answers krst2.naviensmartcontrol.com with HOST_IP.
+#             Skip it when another DNS (e.g. AdGuard Home on CasaOS) does the rewrite.
+# Usage: set HOST_IP in .env, then
+#   docker compose up -d --build                     # navien only
+#   docker compose --profile dnsmasq up -d --build   # navien + dnsmasq
 services:
   dns:
     build: ./dns
+    profiles: ["dnsmasq"]
     restart: unless-stopped
     environment:
       HOST_IP: ${HOST_IP:?set HOST_IP in .env}

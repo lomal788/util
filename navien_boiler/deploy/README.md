@@ -1,13 +1,16 @@
 # 상시 운영 배포 (Docker)
 
-집 안 Docker 서버(MY-COMPUTER, `192.168.0.7`)에서 DNS와 보일러 서버를 24시간 돌리는 구성입니다.
+집 안 서버(MY-COMPUTER, CasaOS, `192.168.0.7`)에서 DNS와 보일러 서버를 24시간 돌리는 구성입니다.
 
-| 컨테이너 | 역할 | 포트 |
+| 구성 | 역할 | 포트 |
 |---|---|---|
-| `dns` (dnsmasq) | `krst2.naviensmartcontrol.com`만 `HOST_IP`로 응답하고 AAAA는 빈 응답으로 막습니다. 나머지 도메인은 KT DNS로 넘깁니다. | `HOST_IP:53` udp/tcp |
-| `navien` | 나비엔 서버를 대신하는 보일러 서버(빌드 원본: `../server`)와 제어 API. 시간대는 `Asia/Seoul`입니다. | `HOST_IP:7000`, `HOST_IP:8080` |
+| **AdGuard Home** (CasaOS 앱, 권장) | 집 전체 DNS. "DNS 재작성"으로 `krst2.naviensmartcontrol.com` → `192.168.0.7`. 웹 관리 화면, 질의 기록, 광고 차단도 제공 | 53, 관리 화면 |
+| `navien` (이 compose) | 나비엔 서버를 대신하는 보일러 서버(빌드 원본: `../server`)와 제어 API. 시간대는 `Asia/Seoul` | `HOST_IP:7000`, `HOST_IP:8080` |
+| `dns` (dnsmasq, 선택) | AdGuard를 쓰지 않을 때만 사용. 같은 도메인 재작성만 하는 최소 DNS | `HOST_IP:53` |
 
-## 1. 서버에 올리기
+> AdGuard Home과 dnsmasq는 둘 다 53번 포트를 쓰므로 **하나만** 켭니다. 기본 `docker compose up`은 dnsmasq를 띄우지 않습니다.
+
+## 1. 보일러 서버 올리기
 
 `navien_boiler` 폴더 **전체**를 서버로 복사합니다. 컨테이너를 `../server`에서 빌드하기 때문입니다.
 
@@ -19,6 +22,32 @@ docker compose ps
 ```
 
 `.env`의 `HOST_IP`는 서버의 고정 내부 IP입니다(기본값 `192.168.0.7`).
+CasaOS 대시보드에는 따로 표시되지 않을 수 있지만, Docker 컨테이너로 정상 동작합니다.
+
+## 1-1. DNS: CasaOS에 AdGuard Home 설치 (권장)
+
+1. CasaOS 앱스토어에서 **AdGuard Home**을 설치합니다.
+2. 처음 설정 화면(CasaOS 앱 아이콘을 누르거나 `http://192.168.0.7:3000`)에서 아래처럼 정합니다.
+   - **관리 화면 포트:** 80과 8080은 피합니다. 80은 CasaOS 대시보드, 8080은 보일러 API가 씁니다. (예: `3000`)
+   - **DNS 수신 인터페이스:** `enp1s0 - 192.168.0.7`, 포트 `53`.
+     "모든 인터페이스"로 두면 서버 내부 DNS(systemd-resolved `127.0.0.53`, LXC `10.0.3.1`)와 53번 포트가 충돌할 수 있습니다.
+3. **설정 → DNS 설정 → 업스트림 DNS**에 KT DNS를 넣습니다. 국내 사이트 CDN 연결이 가장 빠릅니다.
+   ```
+   168.126.63.1
+   168.126.63.2
+   ```
+4. **필터 → DNS 재작성 → 추가:**
+   - 도메인: `krst2.naviensmartcontrol.com`
+   - 응답: `192.168.0.7`
+5. (선택) **설정 → 일반 설정 → 쿼리 로그 보존 기간**을 짧게 둡니다. 기본적으로 집 안 모든 기기의 DNS 질의가 기록됩니다.
+
+설치하다가 `address already in use`(53번) 오류가 나면, 2번의 DNS 수신 인터페이스를 `192.168.0.7`로 지정했는지 먼저 확인하세요.
+
+## 1-2. DNS: dnsmasq 사용 (AdGuard를 안 쓸 때만)
+
+```bash
+docker compose --profile dnsmasq up -d --build
+```
 
 ## 2. 공유기 설정 전에 동작 확인
 
@@ -28,8 +57,9 @@ docker compose ps
 python tools/dns_probe.py 192.168.0.7 53 krst2.naviensmartcontrol.com www.naver.com
 ```
 
-- `krst2...`: A 레코드가 `192.168.0.7`, AAAA 레코드가 `answers=[]`이면 정상입니다.
+- `krst2...`: A 레코드가 `192.168.0.7`이고, AAAA 레코드에 진짜 서버 주소가 나오지 않으면(`answers=[]` 또는 CNAME만) 정상입니다.
 - `www.naver.com`: 정상 IP가 나오면 됩니다.
+- 보일러 서버: `http://192.168.0.7:8080/status`가 `{"connected": false}`를 돌려주면 정상입니다(아직 보일러가 붙기 전).
 
 **여기까지 확인한 뒤에** 공유기 설정을 바꾸세요. 순서를 바꾸면 집 인터넷이 끊깁니다.
 
@@ -78,3 +108,4 @@ ls data/                          # navien_server.log
 ## 되돌리기 (나비엔 클라우드로 복귀)
 
 공유기 DHCP 서버 설정에서 DNS "수동입력"을 해제하고, 보일러 WiFi를 껐다 켭니다.
+AdGuard Home은 그대로 두고 DNS 재작성 규칙만 끄거나 지워도 같은 효과가 있습니다.

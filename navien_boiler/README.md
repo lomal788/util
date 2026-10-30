@@ -4,7 +4,7 @@
 보일러 WiFi 모듈이 접속하는 서버 주소를 DNS로 내 서버로 돌리고, 내 서버가 나비엔 서버 역할을 대신합니다.
 
 ```
-[NR-400 WiFi 모듈] ── DNS: krst2.naviensmartcontrol.com? ──▶ [dnsmasq] ──▶ "192.168.0.7"
+[NR-400 WiFi 모듈] ── DNS: krst2.naviensmartcontrol.com? ──▶ [AdGuard Home(CasaOS) 또는 dnsmasq] ──▶ "192.168.0.7"
         │
         └── TCP 7000 (평문 바이너리) ──▶ [navien_local_server] ◀── HTTP 8080 ── 나 / Home Assistant
 ```
@@ -34,7 +34,7 @@ navien_boiler/
 │  ├─ test_replay.py          실제 캡처를 재생해 진짜 서버 응답과 바이트 단위 비교
 │  └─ Dockerfile              python:3.12-alpine, TZ=Asia/Seoul
 ├─ deploy/                    상시 운영용 Docker 구성
-│  ├─ docker-compose.yml      dns + navien
+│  ├─ docker-compose.yml      navien (+ 선택: --profile dnsmasq). DNS는 CasaOS AdGuard Home 권장
 │  ├─ .env.example            HOST_IP 등 (.env로 복사해서 사용, .env는 git 제외)
 │  ├─ dns/                    dnsmasq 이미지
 │  └─ README.md               서버 배포, ipTIME 설정, 보일러 재연결 절차
