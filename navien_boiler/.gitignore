@@ -1,0 +1,12 @@
+# Packet captures hold home-network traffic (device MACs, DNS lookups) - keep them local
+captures/
+*.pcap
+*.pcapng
+
+# Runtime output
+*.log
+deploy/data/
+__pycache__/
+
+# Local settings
+deploy/.env

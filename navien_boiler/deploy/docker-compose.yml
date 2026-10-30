@@ -1,0 +1,25 @@
+# Fully local Navien NR-400 control.
+#   dnsmasq : answers krst2.naviensmartcontrol.com with HOST_IP, forwards everything else upstream
+#   navien  : stand-in for the cloud on TCP 7000, control API on HTTP 8080
+# Usage: set HOST_IP in .env, then `docker compose up -d --build`
+services:
+  dns:
+    build: ./dns
+    restart: unless-stopped
+    environment:
+      HOST_IP: ${HOST_IP:?set HOST_IP in .env}
+      UPSTREAM_DNS_1: ${UPSTREAM_DNS_1:-168.126.63.1}
+      UPSTREAM_DNS_2: ${UPSTREAM_DNS_2:-168.126.63.2}
+    ports:
+      - "${HOST_IP}:${DNS_PORT:-53}:53/udp"
+      - "${HOST_IP}:${DNS_PORT:-53}:53/tcp"
+
+  navien:
+    build: ../server
+    restart: unless-stopped
+    command: ["--bind", "0.0.0.0", "--http-bind", "0.0.0.0", "--log", "/data/navien_server.log"]
+    volumes:
+      - ./data:/data
+    ports:
+      - "${HOST_IP}:${BOILER_PORT:-7000}:7000"
+      - "${HOST_IP}:${HTTP_PORT:-8080}:8080"

@@ -1,0 +1,5 @@
+# Local verification only: no host bind mount (Docker Desktop file sharing is off here).
+services:
+  navien:
+    command: ["--bind", "0.0.0.0", "--http-bind", "0.0.0.0", "--log", "/tmp/navien_server.log"]
+    volumes: !reset []
