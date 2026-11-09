@@ -1,0 +1,94 @@
+.overlay {
+	composes: typeface from "../../../shared/ui/GameUi.module.css";
+	position: absolute;
+	inset: 0;
+	pointer-events: auto;
+	cursor: none;
+	color: #fff;
+}
+.group {
+	position: absolute;
+	left: 50%;
+	top: calc(50% - calc(44 * var(--ui-unit)));
+	transform: translateX(-50%);
+	width: min(calc(340 * var(--ui-unit)), calc(100vw - calc(24 * var(--ui-unit))));
+}
+.menu {
+	composes: panel from "../../../shared/ui/GameUi.module.css";
+	position: relative;
+	z-index: 2;
+}
+.title {
+	composes: panelTitle from "../../../shared/ui/GameUi.module.css";
+}
+.actions {
+	display: grid;
+	justify-items: center;
+	gap: calc(3 * var(--ui-unit));
+	padding: calc(10 * var(--ui-unit));
+}
+.saveStatus {
+	font-size: calc(11 * var(--ui-unit));
+	line-height: 1.4;
+	color: #ffdc91;
+	padding: calc(4 * var(--ui-unit));
+}
+.overlay button:disabled {
+	opacity: 0.4;
+}
+.overlay button {
+	background: #000;
+	border: calc(1 * var(--ui-unit)) solid transparent;
+	color: #999;
+	font: inherit;
+	padding: 0 calc(3 * var(--ui-unit));
+	line-height: calc(18 * var(--ui-unit));
+	cursor: none;
+}
+.overlay button[data-hovered="true"],
+.overlay button[data-selected="true"],
+.overlay button:focus-visible,
+.choices button[data-selected="true"] {
+	color: #fff;
+	border-color: #ff5050;
+	outline: none;
+}
+.confirm {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	box-sizing: border-box;
+	background: #000;
+	border: calc(2 * var(--ui-unit)) solid #ffff60;
+	text-align: center;
+	transform: translateY(-100%);
+	visibility: hidden;
+	transition:
+		transform 220ms ease-out,
+		visibility 0s 220ms;
+}
+.confirm[data-open="true"] {
+	transform: translateY(0);
+	visibility: visible;
+	transition-delay: 0s;
+}
+.question {
+	border-bottom: calc(1 * var(--ui-unit)) solid #ffff60;
+	color: #fff;
+	line-height: calc(18 * var(--ui-unit));
+}
+.choices {
+	border: 0;
+	margin: 0;
+	min-width: 0;
+	display: flex;
+	justify-content: center;
+	gap: calc(36 * var(--ui-unit));
+	padding: calc(2 * var(--ui-unit));
+}
+@media (prefers-reduced-motion: reduce) {
+	.confirm {
+		transition: none;
+	}
+}

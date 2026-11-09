@@ -1,0 +1,141 @@
+import { Background } from '@entities/Background';
+import type { MatchConfig } from '@entities/Match/model/match';
+import { seededRandom } from '@entities/Terrain/model/terrain';
+import { Terrain } from '@entities/Terrain/ui/Terrain';
+import { advanceWindParticles } from '@entities/World/model/particles';
+import { WORLD_ZOOM, worldLayout } from '@entities/World/model/presentation';
+import type { GameWorld } from '@entities/World/model/world';
+import { useFrame, useThree } from '@react-three/fiber';
+import { viewportScale } from '@shared/lib/viewport';
+import { Air } from '@widgets/Air';
+import type { GameMode } from '@widgets/Gameplay/model/saveGame';
+import type { Game } from '@widgets/Gameplay/model/simulation';
+import { Gameplay } from '@widgets/Gameplay/ui/Gameplay';
+import { Water } from '@widgets/Water';
+import { type RefObject, useMemo, useRef, useState } from 'react';
+import type { BufferAttribute, Points } from 'three';
+import type { OnlineMatch } from '../../../shared/realtime/onlineMatch';
+import { waterSurfaceWidth } from '../../Water/model/coverage';
+import { sceneColors } from '../constants';
+
+function WindParticles({ world }: { world: GameWorld }) {
+	const ref = useRef<Points>(null);
+	const particles = useMemo(() => {
+		const top = worldLayout(world).debrisTop;
+		const random = seededRandom(world.seed ^ 0xd057);
+		const count = Math.max(30, Math.ceil(world.width / 24));
+		const positions = new Float32Array(count * 3);
+		const speeds = new Float32Array(count);
+		for (let i = 0; i < count; i++) {
+			positions[i * 3] = (random() - 0.5) * world.width;
+			positions[i * 3 + 1] = world.waterLevel + random() * (top - world.waterLevel);
+			positions[i * 3 + 2] = 2;
+			speeds[i] = 0.65 + random() * 0.7;
+		}
+		return { positions, speeds };
+	}, [world]);
+	useFrame((_, delta) => {
+		const { positions, speeds } = particles;
+		advanceWindParticles(
+			positions,
+			speeds,
+			world.wind,
+			world.width,
+			worldLayout(world).debrisTop,
+			world.waterLevel,
+			delta
+		);
+		if (ref.current)
+			(ref.current.geometry.attributes.position as BufferAttribute).needsUpdate = true;
+	});
+	return (
+		<points ref={ref} frustumCulled={false}>
+			<bufferGeometry>
+				<bufferAttribute attach='attributes-position' args={[particles.positions, 3]} />
+			</bufferGeometry>
+			<pointsMaterial
+				color='#d9c6a2'
+				size={2}
+				sizeAttenuation={false}
+				transparent
+				opacity={0.55}
+				depthWrite={false}
+			/>
+		</points>
+	);
+}
+
+export function WorldScene({
+	world,
+	statusRef,
+	onReady,
+	matchConfig,
+	onExit,
+	initialGame,
+	online,
+	mode,
+	active = true,
+}: {
+	world: GameWorld;
+	statusRef: RefObject<HTMLOutputElement | null>;
+	onReady: () => void;
+	matchConfig: MatchConfig;
+	onExit: () => void;
+	initialGame?: Game;
+	online?: OnlineMatch;
+	mode?: GameMode;
+	active?: boolean;
+}) {
+	const size = useThree((state) => state.size);
+	const viewportWidth = size.width / (WORLD_ZOOM * viewportScale(size.width, size.height));
+	const waterWidth = waterSurfaceWidth(world.width, viewportWidth);
+	const waterHeight = world.height / 2 + world.waterLevel;
+	const [wind, setWind] = useState(world.wind);
+	useFrame(() => {
+		if (wind !== world.wind) setWind(world.wind);
+	});
+	const layout = worldLayout(world);
+	return (
+		<>
+			<Gameplay
+				active={active}
+				key={`${world.seed}:${world.width}:${world.height}`}
+				world={world}
+				initialGame={initialGame}
+				online={online}
+				mode={mode}
+				statusRef={statusRef}
+				onReady={onReady}
+				matchConfig={matchConfig}
+				onExit={onExit}
+			/>
+			<Background
+				size={[world.width, layout.cloudTop * 2]}
+				position={[0, 0, -2]}
+				shader={{ uBottomColor: sceneColors.bgBottomColor, uTopColor: sceneColors.bgTopColor }}
+			/>
+			<Air maxCloudsPerType={5} height={layout.cloudTop} width={world.width} />
+			<WindParticles world={world} />
+			<Terrain terrain={world.terrain} />
+			<Water
+				wind={wind}
+				width={waterWidth}
+				height={waterHeight}
+				position={[0, -world.height / 2 + waterHeight / 2, 5]}
+				color={sceneColors.waterColor}
+				waveCount={5}
+				backgroundWaveCount={2}
+				waveConfig={{
+					thickness: 10,
+					overlapFactor: 0.4,
+					shaderConfig: {
+						uAmplitude: 6,
+						uColorFrom: sceneColors.waveColorFrom,
+						uColorTo: sceneColors.waveColorTo,
+					},
+				}}
+				bubbleConfig={{ color: sceneColors.bubbleColor }}
+			/>
+		</>
+	);
+}

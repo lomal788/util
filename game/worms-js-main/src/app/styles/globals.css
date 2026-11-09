@@ -1,0 +1,24 @@
+@import "./variables.css";
+@import "tailwindcss";
+
+:root {
+	/* Keep this reference viewport in sync with shared/lib/viewport.ts. */
+	--ui-unit: max(1px, min(0.078125vw, 0.138888889dvh));
+}
+
+html,
+body {
+	overflow: hidden;
+}
+
+body,
+body * {
+	-webkit-user-select: none;
+	user-select: none;
+	-webkit-touch-callout: none;
+}
+
+img,
+a {
+	-webkit-user-drag: none;
+}
