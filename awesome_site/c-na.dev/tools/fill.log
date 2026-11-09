@@ -1,0 +1,11 @@
+http://localhost:8787
+fill 200 /models/cartridge-holder-5.glb 39924
+fill 404 https://www.c-na.dev/.well-known/appspecific/com.chrome.devtools.json
+fill 200 /models/floppy-holder-7.glb 44268
+fill 200 /models/books-crt.glb 190128
+fill 404 https://www.c-na.dev/.well-known/appspecific/com.chrome.devtools.json
+fill 200 /models/books-shelf.glb 226148
+fill 200 /draco/draco_wasm_wrapper.js 58456
+fill 200 /draco/draco_decoder.wasm 192420
+fill 404 https://www.c-na.dev/.well-known/appspecific/com.chrome.devtools.json
+fill 404 https://www.c-na.dev/.well-known/appspecific/com.chrome.devtools.json

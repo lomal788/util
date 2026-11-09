@@ -1,0 +1,3682 @@
+{
+ "/": {
+  "file": "index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092": {
+  "file": "_ext/static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092/index.html",
+  "status": 200,
+  "type": "text/javascript;charset=UTF-8"
+ },
+ "/_next/static/media/RooyinFree_Bold-s.p.ff4e3b9b.woff2": {
+  "file": "_next/static/media/RooyinFree_Bold-s.p.ff4e3b9b.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/chunks/3e200bca904262de.js": {
+  "file": "_next/static/chunks/3e200bca904262de.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/ff1a16fafef87110.js": {
+  "file": "_next/static/chunks/ff1a16fafef87110.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/media/effe91970fc4db64-s.p.19510058.woff2": {
+  "file": "_next/static/media/effe91970fc4db64-s.p.19510058.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2": {
+  "file": "_next/static/media/99e609270109b47d-s.p.64b9304e.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/chunks/2659a364413e1cbc.js": {
+  "file": "_next/static/chunks/2659a364413e1cbc.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/8a9845ab25fbe7fa.js": {
+  "file": "_next/static/chunks/8a9845ab25fbe7fa.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/27545aed08b5359c.css": {
+  "file": "_next/static/chunks/27545aed08b5359c.css",
+  "status": 200,
+  "type": "text/css; charset=utf-8"
+ },
+ "/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2": {
+  "file": "_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/media/21c1dee959b18079-s.p.feed877b.woff2": {
+  "file": "_next/static/media/21c1dee959b18079-s.p.feed877b.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/media/RooyinFree_Regular-s.p.0cb438d2.woff2": {
+  "file": "_next/static/media/RooyinFree_Regular-s.p.0cb438d2.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/image?url=%2Fstills%2Fhero.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q83019a083914",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fhero.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qe257943f0e1c",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js": {
+  "file": "cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+  "status": 200,
+  "type": "application/javascript"
+ },
+ "/_next/static/media/a46a75cfd765634f-s.p.9fc5dbf1.woff2": {
+  "file": "_next/static/media/a46a75cfd765634f-s.p.9fc5dbf1.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/static/media/cb74272c1a4b1482-s.p.95214552.woff2": {
+  "file": "_next/static/media/cb74272c1a4b1482-s.p.95214552.woff2",
+  "status": 200,
+  "type": "font/woff2"
+ },
+ "/_next/image?url=%2Fstills%2Fhero.webp&w=1080&q=75": {
+  "file": "_next/image/index.html__q2c2b99da4e00",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fhero-mobile.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qca5f364fd7b9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fhero-mobile.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q667f2c378ad9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fhero-mobile.webp&w=640&q=75": {
+  "file": "_next/image/index.html__qfdc6ba02078e",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q3083b1fdf464",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q0b6ce6139e96",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=750&q=75": {
+  "file": "_next/image/index.html__qb85109783e2f",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/logos/giftbede.svg": {
+  "file": "logos/giftbede.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/_next/static/chunks/b2196181bb85a227.js": {
+  "file": "_next/static/chunks/b2196181bb85a227.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/5cedbe3d28acc407.js": {
+  "file": "_next/static/chunks/5cedbe3d28acc407.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/73469a159b52eb99.js": {
+  "file": "_next/static/chunks/73469a159b52eb99.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/7340adf74ff47ec0.js": {
+  "file": "_next/static/chunks/7340adf74ff47ec0.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/1ea222932cde5d42.js": {
+  "file": "_next/static/chunks/1ea222932cde5d42.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/turbopack-edbd5f1fae7b8a10.js": {
+  "file": "_next/static/chunks/turbopack-edbd5f1fae7b8a10.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/0cdb0a1c002c87e6.js": {
+  "file": "_next/static/chunks/0cdb0a1c002c87e6.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/1179133c1a8a45be.js": {
+  "file": "_next/static/chunks/1179133c1a8a45be.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/35e2f024709f0002.js": {
+  "file": "_next/static/chunks/35e2f024709f0002.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/4382be461910236f.js": {
+  "file": "_next/static/chunks/4382be461910236f.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/7491f792fd5e1bbf.js": {
+  "file": "_next/static/chunks/7491f792fd5e1bbf.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/logos/campaign-lark.png": {
+  "file": "logos/campaign-lark.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/logos/solsta.png": {
+  "file": "logos/solsta.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/logos/tapsi-doctor.jpg": {
+  "file": "logos/tapsi-doctor.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/logos/snapp-pay.jpg": {
+  "file": "logos/snapp-pay.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/logos/maileroo.jpg": {
+  "file": "logos/maileroo.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/logos/fair-art-fair.png": {
+  "file": "logos/fair-art-fair.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/logos/piqo-design.jpg": {
+  "file": "logos/piqo-design.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=128&q=30": {
+  "file": "_next/image/index.html__q65c7a1e8c3f1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qcc0c41fc2ba2",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=128&q=30": {
+  "file": "_next/image/index.html__q4f3b0f06b458",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q9a79ea614f20",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q4b7a0f94e7a2",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q6a72481f4f57",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=128&q=30": {
+  "file": "_next/image/index.html__qa5a388135ccc",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q78591e2e33f5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/tech-icons/react.svg": {
+  "file": "tech-icons/react.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/_next/image?url=%2Fstills%2Fplayground.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q409465cdfe91",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fabout%2Fportrait.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qbf8553edba88",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/tech-icons/nextjs.svg": {
+  "file": "tech-icons/nextjs.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/typescript.svg": {
+  "file": "tech-icons/typescript.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/_next/image?url=%2Fstills%2Fabout.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q20820af6b591",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/tech-icons/threejs.svg": {
+  "file": "tech-icons/threejs.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/sass.svg": {
+  "file": "tech-icons/sass.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/tailwind.svg": {
+  "file": "tech-icons/tailwind.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/html.svg": {
+  "file": "tech-icons/html.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/css.svg": {
+  "file": "tech-icons/css.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/javascript.svg": {
+  "file": "tech-icons/javascript.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/nodejs.svg": {
+  "file": "tech-icons/nodejs.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/webgl.svg": {
+  "file": "tech-icons/webgl.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/cypress.svg": {
+  "file": "tech-icons/cypress.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/amazonaws.svg": {
+  "file": "tech-icons/amazonaws.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/docker.svg": {
+  "file": "tech-icons/docker.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/webflow.svg": {
+  "file": "tech-icons/webflow.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=750&q=50": {
+  "file": "_next/image/index.html__q26ca3dfbea51",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/tech-icons/electron.svg": {
+  "file": "tech-icons/electron.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/1792987270f67189/script.js": {
+  "file": "1792987270f67189/script.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/?_rsc=1r34m [rsc]": {
+  "file": "index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=750&q=50": {
+  "file": "_next/image/index.html__qa5ffa113d986",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qe2325933c0f8",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q3a3c26975dc1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fabout%2Fportrait.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q3a9c8a11b843",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q6cc67a830fae",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q8b8aeb9a8570",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fplayground.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qe1eb5d48c7d6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fabout.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q229b0292e3e5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1pn8p [rsc]": {
+  "file": "index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qf0dc5fb9c323",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=ivliq [rsc]": {
+  "file": "index.html__q70db6624511d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=640&q=75": {
+  "file": "_next/image/index.html__qd33789e3c38d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=nn07o [rsc]": {
+  "file": "index.html__qd56e506ce410.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=640&q=75": {
+  "file": "_next/image/index.html__qc04f2b578b71",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=640&q=75": {
+  "file": "_next/image/index.html__qdfd81a416a56",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork.webp&w=750&q=75": {
+  "file": "_next/image/index.html__q83f5c08d59f1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact.webp&w=750&q=75": {
+  "file": "_next/image/index.html__q9d5d45382c80",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fabout%2Fportrait.webp&w=256&q=75": {
+  "file": "_next/image/index.html__qe2349e37ae47",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=750&q=50": {
+  "file": "_next/image/index.html__q9d4cc37d8cf4",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=640&q=75": {
+  "file": "_next/image/index.html__q07785476232d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=750&q=75": {
+  "file": "_next/image/index.html__q6652a4a0f019",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fabout.webp&w=750&q=75": {
+  "file": "_next/image/index.html__q5d2626df698d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fplayground.webp&w=750&q=75": {
+  "file": "_next/image/index.html__qaddb4d250029",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=640&q=75": {
+  "file": "_next/image/index.html__q579409fee349",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/giftbede?_rsc=1r34m [rsc]": {
+  "file": "works/giftbede/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1r34m [rsc]": {
+  "file": "works/iconly-pro/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1pn8p [rsc]": {
+  "file": "works/giftbede/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=hymgj [rsc]": {
+  "file": "works/giftbede/index.html__q60187c1514a4.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/testimonials/areeb-majeed.jpg": {
+  "file": "testimonials/areeb-majeed.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/testimonials/andrea-montgomery.jpg": {
+  "file": "testimonials/andrea-montgomery.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/works/giftbede?_rsc=1taxg [rsc]": {
+  "file": "works/giftbede/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/testimonials/mahdi-heidarikia.jpg": {
+  "file": "testimonials/mahdi-heidarikia.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/works/maileroo?_rsc=1r34m [rsc]": {
+  "file": "works/maileroo/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftank.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q6672efb90889",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/solsta?_rsc=1r34m [rsc]": {
+  "file": "works/solsta/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=1r34m [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftetris.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q25780b018d36",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/testimonials/mahdi-gharib.jpg": {
+  "file": "testimonials/mahdi-gharib.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fpac-man.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q6ef93b8f7e64",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fsnake.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qf4ce74225e9d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftank.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qc488aeab0900",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/campaign-lark?_rsc=1r34m [rsc]": {
+  "file": "works/campaign-lark/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1pn8p [rsc]": {
+  "file": "works/maileroo/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftetris.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q81b6c4bffc09",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/maileroo?_rsc=1taxg [rsc]": {
+  "file": "works/maileroo/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fsnake.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q47f0461bfdd5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftank.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q288a53a61943",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/wassieverse-canvas?_rsc=1pn8p [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=tl418 [rsc]": {
+  "file": "works/maileroo/index.html__q5e6748f0cf88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fpac-man.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q8df048f6ed40",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Ftetris.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q0280d68bb7a1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/solsta?_rsc=1pn8p [rsc]": {
+  "file": "works/solsta/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fsnake.webp&w=256&q=75": {
+  "file": "_next/image/index.html__qebfef496b6a0",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/solsta?_rsc=1taxg [rsc]": {
+  "file": "works/solsta/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fspace-invader.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q8f184b4880f8",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/laelaps?_rsc=1r34m [rsc]": {
+  "file": "works/laelaps/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/static/chunks/4ecfbdf438d103ff.js": {
+  "file": "_next/static/chunks/4ecfbdf438d103ff.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/pac-man?_rsc=1r34m [rsc]": {
+  "file": "pac-man/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fspace-invader.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q703c5f887fde",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/snake?_rsc=1r34m [rsc]": {
+  "file": "snake/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank?_rsc=1r34m [rsc]": {
+  "file": "tank/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fpac-man.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q4662b2d54518",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/tetris?_rsc=1r34m [rsc]": {
+  "file": "tetris/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Ftextures%2Fcartridges%2Fspace-invader.webp&w=256&q=75": {
+  "file": "_next/image/index.html__qfdc78fe93d48",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/space-invader?_rsc=1r34m [rsc]": {
+  "file": "space-invader/index.html__qe0663f1ac17d.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=1xbyy [rsc]": {
+  "file": "snake/index.html__qe403ea0e05bb.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=1pn8p [rsc]": {
+  "file": "pac-man/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=s04pk [rsc]": {
+  "file": "snake/index.html__qef4be4ee396b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=1pn8p [rsc]": {
+  "file": "snake/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=bk1u4 [rsc]": {
+  "file": "pac-man/index.html__q64776b8f38e0.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=18hfk [rsc]": {
+  "file": "tetris/index.html__q40c3336ef9ce.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=1pn8p [rsc]": {
+  "file": "tetris/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=11zd1 [rsc]": {
+  "file": "tetris/index.html__qd641d3368c91.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=57qrj [rsc]": {
+  "file": "pac-man/index.html__q8e2a5005afd4.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/static/chunks/f3fb659e3d9f3d2f.js": {
+  "file": "_next/static/chunks/f3fb659e3d9f3d2f.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/fb5324519b05a5b4.js": {
+  "file": "_next/static/chunks/fb5324519b05a5b4.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/space-invader?_rsc=1pn8p [rsc]": {
+  "file": "space-invader/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/static/chunks/7fbe8507d43c5bb0.js": {
+  "file": "_next/static/chunks/7fbe8507d43c5bb0.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/space-invader?_rsc=jyyp6 [rsc]": {
+  "file": "space-invader/index.html__qf82c730adf3c.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/static/chunks/4dd6ee19e6dee944.js": {
+  "file": "_next/static/chunks/4dd6ee19e6dee944.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/4529deab99f6364e.js": {
+  "file": "_next/static/chunks/4529deab99f6364e.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/tank?_rsc=1jey2 [rsc]": {
+  "file": "tank/index.html__q4f970e0abd39.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/static/chunks/c43655ae3c8cf9f1.js": {
+  "file": "_next/static/chunks/c43655ae3c8cf9f1.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/space-invader?_rsc=108bn [rsc]": {
+  "file": "space-invader/index.html__q753cea512588.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1pn8p [rsc]": {
+  "file": "works/campaign-lark/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/resume.pdf": {
+  "file": "resume.pdf",
+  "status": 200,
+  "type": "application/pdf"
+ },
+ "/works/giftbede": {
+  "file": "works/giftbede/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-giftbede.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qec04a853e403",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q354fd45ce6a3",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=640&q=50": {
+  "file": "_next/image/index.html__q603042426a26",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-giftbede.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q131926065721",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Flaptop.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q51305afc5321",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fphone.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qae14530a2384",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-giftbede.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__qe37a70592746",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=rvovw [rsc]": {
+  "file": "index.html__qa2e94f5dd459.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Flaptop.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qe441c977ba15",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1pyoy [rsc]": {
+  "file": "index.html__q035c4812aee6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=1grc7 [rsc]": {
+  "file": "index.html__qbdc96620a64b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=kx4hu [rsc]": {
+  "file": "index.html__q1f3d32cf7322.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Flaptop.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q28a775e1fe11",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fphone.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q7d28eefa3cb7",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fphone.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qc39e64a4d63d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qa8f5aa9aa382",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=256&q=50": {
+  "file": "_next/image/index.html__q1b3c6b603130",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=256&q=75": {
+  "file": "_next/image/index.html__qb928ec225cea",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=256&q=75": {
+  "file": "_next/image/index.html__qb0ab01e719f9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/iconly-pro?_rsc=rvovw [rsc]": {
+  "file": "works/iconly-pro/index.html__qa2e94f5dd459.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=rvovw [rsc]": {
+  "file": "works/laelaps/index.html__qa2e94f5dd459.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1grc7 [rsc]": {
+  "file": "works/iconly-pro/index.html__qbdc96620a64b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=qwyvr [rsc]": {
+  "file": "works/iconly-pro/index.html__qa444bb709087.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=qgv5q [rsc]": {
+  "file": "works/iconly-pro/index.html__qd8377991e765.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=qgv5q [rsc]": {
+  "file": "works/laelaps/index.html__qd8377991e765.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=ypnmb [rsc]": {
+  "file": "works/laelaps/index.html__qe94c393c3457.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=1grc7 [rsc]": {
+  "file": "works/laelaps/index.html__qbdc96620a64b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=ypnmb [rsc]": {
+  "file": "works/iconly-pro/index.html__qe94c393c3457.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro": {
+  "file": "works/iconly-pro/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-iconly-pro.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q6c9d04bf2639",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-iconly-pro.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qb5b611c10957",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=640&q=50": {
+  "file": "_next/image/index.html__q05f1d09d6da1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-iconly-pro.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__qd32dcadbf1be",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qfe395a04a098",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fcategories.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q0f8777637108",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fpicker.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qdf4c0da2c220",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=obdrt [rsc]": {
+  "file": "index.html__q206406262c1b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fcategories.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qe2c8808771ae",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=q57r1 [rsc]": {
+  "file": "index.html__qcf76be79acd1.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=18zmv [rsc]": {
+  "file": "index.html__q4cedf22c51f4.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=1qzlr [rsc]": {
+  "file": "index.html__qf48bdbec33ab.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fpicker.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q292cc7fbaeb6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fcategories.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qa7ae4c8a62b8",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fpicker.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q66a306507d33",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qbd2b705b310f",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=256&q=50": {
+  "file": "_next/image/index.html__q5750bc2b33f6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q1b18f994caf1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=256&q=75": {
+  "file": "_next/image/index.html__qab960dee1fda",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/giftbede?_rsc=obdrt [rsc]": {
+  "file": "works/giftbede/index.html__q206406262c1b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=obdrt [rsc]": {
+  "file": "works/campaign-lark/index.html__q206406262c1b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=13fg9 [rsc]": {
+  "file": "works/giftbede/index.html__qffec1894dc8e.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=q57r1 [rsc]": {
+  "file": "works/giftbede/index.html__qcf76be79acd1.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=q57r1 [rsc]": {
+  "file": "works/campaign-lark/index.html__qcf76be79acd1.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=6i94z [rsc]": {
+  "file": "works/giftbede/index.html__q4d9fc29cefac.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=6i94z [rsc]": {
+  "file": "works/campaign-lark/index.html__q4d9fc29cefac.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1dimd [rsc]": {
+  "file": "works/giftbede/index.html__q20ebb0d6ef23.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1dimd [rsc]": {
+  "file": "works/campaign-lark/index.html__q20ebb0d6ef23.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark": {
+  "file": "works/campaign-lark/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-campaign-lark.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q0d6ed192d85f",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-campaign-lark.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q23821d313e78",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=640&q=50": {
+  "file": "_next/image/index.html__q5e19c22480c8",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=1200&q=75": {
+  "file": "_next/image/index.html__q2ad6e2514868",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-campaign-lark.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__qd337dfb66dd6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fworkflow.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q3e968cacaf98",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Flanding.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q87b857d524cb",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1jbtr [rsc]": {
+  "file": "index.html__q5bb6b725635f.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fdashboard.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q7cd5d9ec5645",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1x9yg [rsc]": {
+  "file": "index.html__q92157eeb0760.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fworkflow.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q0dc92ea94d41",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=256&q=50": {
+  "file": "_next/image/index.html__qe91aab8f3685",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=mocva [rsc]": {
+  "file": "index.html__q792d88cf9fda.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Flanding.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q6de2ebade3fd",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1ebds [rsc]": {
+  "file": "index.html__q6a307e72a7b8.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fdashboard.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q7e54198f8270",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fworkflow.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q96cc1b773eac",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fdashboard.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qc0d4f4da4a2c",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q0dc71c15458d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Flanding.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qbe7e588fd6d8",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/iconly-pro?_rsc=1jbtr [rsc]": {
+  "file": "works/iconly-pro/index.html__q5bb6b725635f.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=1jbtr [rsc]": {
+  "file": "works/solsta/index.html__q5bb6b725635f.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=111yx [rsc]": {
+  "file": "works/solsta/index.html__qe71b2d3afef7.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=1x9yg [rsc]": {
+  "file": "works/solsta/index.html__q92157eeb0760.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1yh6n [rsc]": {
+  "file": "works/iconly-pro/index.html__q050bea0ab409.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=1qd4l [rsc]": {
+  "file": "works/solsta/index.html__qdac5f474c161.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=111yx [rsc]": {
+  "file": "works/iconly-pro/index.html__qe71b2d3afef7.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1qd4l [rsc]": {
+  "file": "works/iconly-pro/index.html__qdac5f474c161.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1x9yg [rsc]": {
+  "file": "works/iconly-pro/index.html__q92157eeb0760.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta": {
+  "file": "works/solsta/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-solsta.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q7f3659a62993",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-solsta.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q22050d6142f6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=640&q=50": {
+  "file": "_next/image/index.html__q8d2259f90c92",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-solsta.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__q1a531166d3d0",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fblog.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qb72853de3896",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Froadmap.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q5ccb2898415d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=10f0r [rsc]": {
+  "file": "index.html__qf7c27a8710e6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fblog.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q6dcc179614db",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=256&q=50": {
+  "file": "_next/image/index.html__q77670bd51c8a",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Froadmap.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qbe5a25ef7b8d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1bhbv [rsc]": {
+  "file": "index.html__q207780f473b0.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q34761de3e330",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=jr0yk [rsc]": {
+  "file": "index.html__q03799c2241d6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=jz28u [rsc]": {
+  "file": "index.html__qef3649daa991.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=256&q=75": {
+  "file": "_next/image/index.html__q517fcc259f1e",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Froadmap.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q7c1406a64ebe",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fblog.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qf88b3b974f8d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q35584a4c9103",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/maileroo?_rsc=10f0r [rsc]": {
+  "file": "works/maileroo/index.html__qf7c27a8710e6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=10f0r [rsc]": {
+  "file": "works/campaign-lark/index.html__qf7c27a8710e6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1xfee [rsc]": {
+  "file": "works/maileroo/index.html__q6ccfc2c97368.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1bhbv [rsc]": {
+  "file": "works/maileroo/index.html__q207780f473b0.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1g78i [rsc]": {
+  "file": "works/maileroo/index.html__qb4bf3cf8d785.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1it5a [rsc]": {
+  "file": "works/maileroo/index.html__q42369025ce81.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1bhbv [rsc]": {
+  "file": "works/campaign-lark/index.html__q207780f473b0.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1xfee [rsc]": {
+  "file": "works/campaign-lark/index.html__q6ccfc2c97368.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1it5a [rsc]": {
+  "file": "works/campaign-lark/index.html__q42369025ce81.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo": {
+  "file": "works/maileroo/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-maileroo.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q42529a82f32d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-maileroo.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q6c38b96c297c",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=640&q=50": {
+  "file": "_next/image/index.html__q260d8bd0153b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q8b8ad4a51365",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-maileroo.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__q37ac9a1b1f08",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fsign-in.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qfeaaef0f3edc",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=130v6 [rsc]": {
+  "file": "index.html__q41d134ecbbaa.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fcollaborators.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q999160155619",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=clxml [rsc]": {
+  "file": "index.html__q32711f5b9feb.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=w2as7 [rsc]": {
+  "file": "index.html__qa71e1a73bf74.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=22r6o [rsc]": {
+  "file": "index.html__qdd50141b3cf9.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=256&q=50": {
+  "file": "_next/image/index.html__q1504b6ec56a3",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=256&q=75": {
+  "file": "_next/image/index.html__q7a801d1728ba",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fsign-in.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qd17f01b38e3b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fcollaborators.webp&w=750&q=50": {
+  "file": "_next/image/index.html__qeed5a302d1d0",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fcollaborators.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q6f0f4373d812",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fsign-in.webp&w=828&q=75": {
+  "file": "_next/image/index.html__qa0e0680b18ba",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/wassieverse-canvas?_rsc=130v6 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q41d134ecbbaa.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=130v6 [rsc]": {
+  "file": "works/solsta/index.html__q41d134ecbbaa.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=clxml [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q32711f5b9feb.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=19utw [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qbd378cd0ed22.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=12256 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q146d7f8a6e88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=11m1g [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q9ba314806826.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=19utw [rsc]": {
+  "file": "works/solsta/index.html__qbd378cd0ed22.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=clxml [rsc]": {
+  "file": "works/solsta/index.html__q32711f5b9feb.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=11m1g [rsc]": {
+  "file": "works/solsta/index.html__q9ba314806826.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas": {
+  "file": "works/wassieverse-canvas/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-wassieverse-canvas.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q1372322b3a85",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-wassieverse-canvas.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q8154da291686",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=1200&q=75": {
+  "file": "_next/image/index.html__qc54137a53a49",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=640&q=50": {
+  "file": "_next/image/index.html__q1d89bcf78383",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-wassieverse-canvas.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__q4aea4cb45ad0",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fimg-1.png&w=128&q=30": {
+  "file": "_next/image/index.html__qae545f939cf4",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=bi7ey [rsc]": {
+  "file": "index.html__qa403ab839498.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fproblem.png&w=128&q=30": {
+  "file": "_next/image/index.html__q914f0ab03eb5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fimg-1.png&w=750&q=50": {
+  "file": "_next/image/index.html__qcdda089bb2c9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1j30c [rsc]": {
+  "file": "index.html__q4ab710b38862.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=1icd1 [rsc]": {
+  "file": "index.html__q190f2566eed6.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=1c6ha [rsc]": {
+  "file": "index.html__q11ecfcc23526.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fproblem.png&w=750&q=50": {
+  "file": "_next/image/index.html__q691cf2cff00b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fproblem.png&w=828&q=75": {
+  "file": "_next/image/index.html__q46b8ac63d38e",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fimg-1.png&w=828&q=75": {
+  "file": "_next/image/index.html__q8cb619bc3b16",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/laelaps?_rsc=bi7ey [rsc]": {
+  "file": "works/laelaps/index.html__qa403ab839498.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=bi7ey [rsc]": {
+  "file": "works/maileroo/index.html__qa403ab839498.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=1j30c [rsc]": {
+  "file": "works/laelaps/index.html__q4ab710b38862.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=7hclj [rsc]": {
+  "file": "works/laelaps/index.html__q4a78701add72.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=14n8u [rsc]": {
+  "file": "works/laelaps/index.html__qda03f9e39a31.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1j30c [rsc]": {
+  "file": "works/maileroo/index.html__q4ab710b38862.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1ihyk [rsc]": {
+  "file": "works/maileroo/index.html__q8216984b96fd.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=14n8u [rsc]": {
+  "file": "works/maileroo/index.html__qda03f9e39a31.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=1ihyk [rsc]": {
+  "file": "works/laelaps/index.html__q8216984b96fd.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps": {
+  "file": "works/laelaps/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-laelaps.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q5a52ee2723b5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-laelaps.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qde981e335d7d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=640&q=50": {
+  "file": "_next/image/index.html__q8fe4768b8b32",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-laelaps.webp&w=1920&q=75": {
+  "file": "_next/image/index.html__q6b6a1510cf43",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=1200&q=75": {
+  "file": "_next/image/index.html__q86691dd10e0b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fimg-1.png&w=128&q=30": {
+  "file": "_next/image/index.html__q2bbf03a1939f",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Flaptop.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qcbe690aa7e47",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1cmgn [rsc]": {
+  "file": "index.html__qb1b3bfe68333.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fimg-1.png&w=750&q=50": {
+  "file": "_next/image/index.html__q8cbccea06a36",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/?_rsc=1ml35 [rsc]": {
+  "file": "index.html__qb6263748921a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=1uvjt [rsc]": {
+  "file": "index.html__q45a0f5b0c410.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/?_rsc=37m6f [rsc]": {
+  "file": "index.html__q8552bf53d180.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Flaptop.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q63e8d870f6e7",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fimg-1.png&w=828&q=75": {
+  "file": "_next/image/index.html__q4b423b27dd7b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Flaptop.webp&w=828&q=75": {
+  "file": "_next/image/index.html__q5a8138fad2c9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/wassieverse-canvas?_rsc=1cmgn [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qb1b3bfe68333.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1cmgn [rsc]": {
+  "file": "works/giftbede/index.html__qb1b3bfe68333.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=18o2f [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q6051ace40f0a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=1ml35 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qb6263748921a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1ml35 [rsc]": {
+  "file": "works/giftbede/index.html__qb6263748921a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1h69r [rsc]": {
+  "file": "works/giftbede/index.html__qb6f4e1b78556.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=galji [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q2598f9a7b1ab.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=galji [rsc]": {
+  "file": "works/giftbede/index.html__q2598f9a7b1ab.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=1h69r [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qb6f4e1b78556.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank": {
+  "file": "tank/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/static/chunks/03e61508012a2887.js": {
+  "file": "_next/static/chunks/03e61508012a2887.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/a1b0178f44445c76.js": {
+  "file": "_next/static/chunks/a1b0178f44445c76.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/50d9c1c6ec5a37f6.js": {
+  "file": "_next/static/chunks/50d9c1c6ec5a37f6.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/tank/textures/blocks.png": {
+  "file": "tank/textures/blocks.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/tank/models/tank.glb": {
+  "file": "tank/models/tank.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "https://www.gstatic.com/draco/versioned/decoders/1.5.5/draco_wasm_wrapper.js": {
+  "file": "_ext/www.gstatic.com/draco/versioned/decoders/1.5.5/draco_wasm_wrapper.js",
+  "status": 200,
+  "type": "text/javascript"
+ },
+ "https://www.gstatic.com/draco/versioned/decoders/1.5.5/draco_decoder.wasm": {
+  "file": "_ext/www.gstatic.com/draco/versioned/decoders/1.5.5/draco_decoder.wasm",
+  "status": 200,
+  "type": "application/wasm"
+ },
+ "https://www.c-na.dev/0b44b635-f4a6-4d6d-8624-c8ed6def7f23": {
+  "file": "https_//www.c-na.dev/0b44b635-f4a6-4d6d-8624-c8ed6def7f23/index.html",
+  "status": 200,
+  "type": ""
+ },
+ "/space-invader": {
+  "file": "space-invader/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/static/chunks/722c0d58c16ee960.js": {
+  "file": "_next/static/chunks/722c0d58c16ee960.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/space-invader/textures/enemies.png": {
+  "file": "space-invader/textures/enemies.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/tetris": {
+  "file": "tetris/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/pac-man": {
+  "file": "pac-man/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/pacman/textures/chars.png": {
+  "file": "pacman/textures/chars.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/snake": {
+  "file": "snake/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/_next/image?url=%2Fstills%2Fhero.webp&w=384&q=75": {
+  "file": "_next/image/index.html__qad8fbafcf560",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fhero-mobile.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q9ff30d90c94a",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork-mobile.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qf54ac7f4150d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork-mobile.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q42ab269a4ef4",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fwork-mobile.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qdc59d4ceaf4e",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fabout-mobile.webp&w=128&q=30": {
+  "file": "_next/image/index.html__qef23f7841a11",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/iconly-pro?_rsc=1taxg [rsc]": {
+  "file": "works/iconly-pro/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fabout%2Fportrait.webp&w=640&q=75": {
+  "file": "_next/image/index.html__qdab169686342",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/iconly-pro?_rsc=1pn8p [rsc]": {
+  "file": "works/iconly-pro/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=1pn8p [rsc]": {
+  "file": "works/laelaps/index.html__q86749780f66b.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=1taxg [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fabout-mobile.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q854388e13e41",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/laelaps?_rsc=1taxg [rsc]": {
+  "file": "works/laelaps/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=tl418 [rsc]": {
+  "file": "works/laelaps/index.html__q5e6748f0cf88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact-mobile.webp&w=128&q=30": {
+  "file": "_next/image/index.html__q9ef091c90c86",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/giftbede?_rsc=tl418 [rsc]": {
+  "file": "works/giftbede/index.html__q5e6748f0cf88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fabout-mobile.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qedba8b2f6cb3",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/campaign-lark?_rsc=1taxg [rsc]": {
+  "file": "works/campaign-lark/index.html__q20d79e8231c3.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact-mobile.webp&w=750&q=50": {
+  "file": "_next/image/index.html__q93e03b97ac63",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcontact-mobile.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q6700f7b6650b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=3840&q=75": {
+  "file": "_next/image/index.html__qd388f80143b4",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-giftbede.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q95ba307d32a1",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fphone.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q9796ae730110",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Flaptop.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q871d16f7b5b2",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=640&q=75": {
+  "file": "_next/image/index.html__q56592cf74248",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/laelaps?_rsc=qwyvr [rsc]": {
+  "file": "works/laelaps/index.html__qa444bb709087.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-iconly-pro.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q377c8756176a",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Flanding.webp&w=3840&q=75": {
+  "file": "_next/image/index.html__q554257b940fd",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fcategories.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qad49c5effc2e",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Ficonly%2Fpicker.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q3a41ca6d79c5",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fgiftbede%2Fapp-icon.webp&w=640&q=75": {
+  "file": "_next/image/index.html__q4b2eb7e285cd",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-campaign-lark.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qe386bde21cae",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fcover.png&w=3840&q=75": {
+  "file": "_next/image/index.html__q22db78b6bfb3",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fworkflow.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q29360223e43a",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Flanding.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qfac7e65e35df",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fcampaign-lark%2Fdashboard.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qe0e461be1c28",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-solsta.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qf0f52941c887",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fmission-control.webp&w=3840&q=75": {
+  "file": "_next/image/index.html__q22596acc03ad",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Froadmap.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qc06dc309919d",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fsolsta%2Fblog.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q8a2df4df0a82",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/campaign-lark?_rsc=1g78i [rsc]": {
+  "file": "works/campaign-lark/index.html__qb4bf3cf8d785.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-maileroo.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q7f0e2d558133",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Foverview.webp&w=3840&q=75": {
+  "file": "_next/image/index.html__q1279ac16e1da",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fsign-in.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__qe5039f6522a9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fmaileroo%2Fcollaborators.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q4c426c054046",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/solsta?_rsc=12256 [rsc]": {
+  "file": "works/solsta/index.html__q146d7f8a6e88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-wassieverse-canvas.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q9b593db9e300",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fwassies.jpg&w=3840&q=75": {
+  "file": "_next/image/index.html__q1722bb0bc802",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fproblem.png&w=1200&q=75": {
+  "file": "_next/image/index.html__q50acd0422c0f",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Fwassie%2Fimg-1.png&w=1200&q=75": {
+  "file": "_next/image/index.html__qdc2e50a30ff6",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/works/maileroo?_rsc=7hclj [rsc]": {
+  "file": "works/maileroo/index.html__q4a78701add72.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/_next/image?url=%2Fstills%2Fcase-laelaps.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q76f72d3ccf3b",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fcover.png&w=3840&q=75": {
+  "file": "_next/image/index.html__q4e19fdaf05e3",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Fimg-1.png&w=1200&q=75": {
+  "file": "_next/image/index.html__q4401d7826db9",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/image?url=%2Fprojects%2Flaelaps%2Flaptop.webp&w=1200&q=75": {
+  "file": "_next/image/index.html__q4762c02515bd",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "https://www.c-na.dev/bdf78527-fecd-4e74-9374-878faf59d495": {
+  "file": "https_//www.c-na.dev/bdf78527-fecd-4e74-9374-878faf59d495/index.html",
+  "status": 200,
+  "type": ""
+ },
+ "/manifest.webmanifest": {
+  "file": "manifest.webmanifest",
+  "status": 200,
+  "type": "application/manifest+json"
+ },
+ "/favicon.ico": {
+  "file": "favicon.ico",
+  "status": 200,
+  "type": "image/x-icon"
+ },
+ "/icon.svg": {
+  "file": "icon.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/apple-icon.png": {
+  "file": "apple-icon.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/stills/hero.webp": {
+  "file": "stills/hero.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/hero-mobile.webp": {
+  "file": "stills/hero-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/giftbede/app-icon.webp": {
+  "file": "projects/giftbede/app-icon.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/work-mobile.webp": {
+  "file": "stills/work-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/iconly/landing.webp": {
+  "file": "projects/iconly/landing.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/campaign-lark/cover.png": {
+  "file": "projects/campaign-lark/cover.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/projects/solsta/mission-control.webp": {
+  "file": "projects/solsta/mission-control.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/maileroo/overview.webp": {
+  "file": "projects/maileroo/overview.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/wassie/wassies.jpg": {
+  "file": "projects/wassie/wassies.jpg",
+  "status": 200,
+  "type": "image/jpeg"
+ },
+ "/projects/laelaps/cover.png": {
+  "file": "projects/laelaps/cover.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/stills/about-mobile.webp": {
+  "file": "stills/about-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/about/portrait.webp": {
+  "file": "about/portrait.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/cartridges/tank.webp": {
+  "file": "textures/cartridges/tank.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/cartridges/space-invader.webp": {
+  "file": "textures/cartridges/space-invader.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/cartridges/tetris.webp": {
+  "file": "textures/cartridges/tetris.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/cartridges/pac-man.webp": {
+  "file": "textures/cartridges/pac-man.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/cartridges/snake.webp": {
+  "file": "textures/cartridges/snake.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/contact-mobile.webp": {
+  "file": "stills/contact-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/work.webp": {
+  "file": "stills/work.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/about.webp": {
+  "file": "stills/about.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/playground.webp": {
+  "file": "stills/playground.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/contact.webp": {
+  "file": "stills/contact.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/sounds/single-click.flac": {
+  "file": "sounds/single-click.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/click-down.flac": {
+  "file": "sounds/click-down.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/click-up.flac": {
+  "file": "sounds/click-up.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/keyboard-click.mp3": {
+  "file": "sounds/keyboard-click.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/startup.flac": {
+  "file": "sounds/startup.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/funk.flac": {
+  "file": "sounds/funk.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/hero.flac": {
+  "file": "sounds/hero.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/ichat-buddy-logging-in.flac": {
+  "file": "sounds/ichat-buddy-logging-in.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/ichat-buddy-logging-out.flac": {
+  "file": "sounds/ichat-buddy-logging-out.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/empty-trash.mp3": {
+  "file": "sounds/empty-trash.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/mac/floppy-pick.flac": {
+  "file": "sounds/mac/floppy-pick.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/mac/floppy-insert.flac": {
+  "file": "sounds/mac/floppy-insert.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/mac/floppy-out.flac": {
+  "file": "sounds/mac/floppy-out.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/mac/floppy-put-back.flac": {
+  "file": "sounds/mac/floppy-put-back.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/mac/floppy-read-1.mp3": {
+  "file": "sounds/mac/floppy-read-1.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/mac/floppy-read-2.mp3": {
+  "file": "sounds/mac/floppy-read-2.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/mac/floppy-read-3.mp3": {
+  "file": "sounds/mac/floppy-read-3.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/mac/cartridge-out.flac": {
+  "file": "sounds/mac/cartridge-out.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/mac/cartridge-in.flac": {
+  "file": "sounds/mac/cartridge-in.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/start.flac": {
+  "file": "sounds/pac-man/start.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/eat_dot_0.flac": {
+  "file": "sounds/pac-man/eat_dot_0.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/eat_dot_1.flac": {
+  "file": "sounds/pac-man/eat_dot_1.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/eat_ghost.flac": {
+  "file": "sounds/pac-man/eat_ghost.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/death_0.flac": {
+  "file": "sounds/pac-man/death_0.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/death_1.flac": {
+  "file": "sounds/pac-man/death_1.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/intermission.flac": {
+  "file": "sounds/pac-man/intermission.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren0.flac": {
+  "file": "sounds/pac-man/siren0.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren0_firstloop.flac": {
+  "file": "sounds/pac-man/siren0_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren1.flac": {
+  "file": "sounds/pac-man/siren1.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren1_firstloop.flac": {
+  "file": "sounds/pac-man/siren1_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren2.flac": {
+  "file": "sounds/pac-man/siren2.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren2_firstloop.flac": {
+  "file": "sounds/pac-man/siren2_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren3.flac": {
+  "file": "sounds/pac-man/siren3.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren3_firstloop.flac": {
+  "file": "sounds/pac-man/siren3_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren4.flac": {
+  "file": "sounds/pac-man/siren4.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/siren4_firstloop.flac": {
+  "file": "sounds/pac-man/siren4_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/fright.flac": {
+  "file": "sounds/pac-man/fright.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/fright_firstloop.flac": {
+  "file": "sounds/pac-man/fright_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/eyes.flac": {
+  "file": "sounds/pac-man/eyes.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/pac-man/eyes_firstloop.flac": {
+  "file": "sounds/pac-man/eyes_firstloop.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/shoot.flac": {
+  "file": "sounds/tank/shoot.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/hit-brick.flac": {
+  "file": "sounds/tank/hit-brick.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/hit-metal.flac": {
+  "file": "sounds/tank/hit-metal.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/destroy.flac": {
+  "file": "sounds/tank/destroy.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/destroy-statue.flac": {
+  "file": "sounds/tank/destroy-statue.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/explosion.flac": {
+  "file": "sounds/tank/explosion.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/game-over.flac": {
+  "file": "sounds/tank/game-over.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/next-level.flac": {
+  "file": "sounds/tank/next-level.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/respawn-player.flac": {
+  "file": "sounds/tank/respawn-player.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/move.flac": {
+  "file": "sounds/tank/move.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tank/enemy-move.flac": {
+  "file": "sounds/tank/enemy-move.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/snake/move.mp3": {
+  "file": "sounds/snake/move.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/snake/food.mp3": {
+  "file": "sounds/snake/food.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/snake/gameover.mp3": {
+  "file": "sounds/snake/gameover.mp3",
+  "status": 200,
+  "type": "audio/mpeg"
+ },
+ "/sounds/tetris/menu.flac": {
+  "file": "sounds/tetris/menu.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/move.flac": {
+  "file": "sounds/tetris/move.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/rotate.flac": {
+  "file": "sounds/tetris/rotate.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/land.flac": {
+  "file": "sounds/tetris/land.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/line-clear.flac": {
+  "file": "sounds/tetris/line-clear.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/tetris.flac": {
+  "file": "sounds/tetris/tetris.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/fall-after-clear.flac": {
+  "file": "sounds/tetris/fall-after-clear.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/level-up.flac": {
+  "file": "sounds/tetris/level-up.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/game-over.flac": {
+  "file": "sounds/tetris/game-over.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/send-blocks.flac": {
+  "file": "sounds/tetris/send-blocks.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/level-up-alt.flac": {
+  "file": "sounds/tetris/level-up-alt.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/tetris-sample.flac": {
+  "file": "sounds/tetris/tetris-sample.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/rocket-sting.flac": {
+  "file": "sounds/tetris/rocket-sting.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/tetris/rocket-ending.flac": {
+  "file": "sounds/tetris/rocket-ending.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/start.flac": {
+  "file": "sounds/space-invader/start.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/shoot.flac": {
+  "file": "sounds/space-invader/shoot.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/enemy-bullet.flac": {
+  "file": "sounds/space-invader/enemy-bullet.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/hit.flac": {
+  "file": "sounds/space-invader/hit.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/death.flac": {
+  "file": "sounds/space-invader/death.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/pause.flac": {
+  "file": "sounds/space-invader/pause.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/wave-clear.flac": {
+  "file": "sounds/space-invader/wave-clear.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/space-invader/game-over.flac": {
+  "file": "sounds/space-invader/game-over.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/switch.flac": {
+  "file": "sounds/decor/switch.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/cassette-in.flac": {
+  "file": "sounds/decor/cassette-in.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/walkman-key.flac": {
+  "file": "sounds/decor/walkman-key.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/gameboy-ding.flac": {
+  "file": "sounds/decor/gameboy-ding.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/cassette-open.flac": {
+  "file": "sounds/decor/cassette-open.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/decor/cassette-close.flac": {
+  "file": "sounds/decor/cassette-close.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/sounds/walkman/floppy-sunset.flac": {
+  "file": "sounds/walkman/floppy-sunset.flac",
+  "status": 200,
+  "type": "audio/x-flac"
+ },
+ "/about/portrait-dither.png": {
+  "file": "about/portrait-dither.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/projects/campaign-lark/dashboard.webp": {
+  "file": "projects/campaign-lark/dashboard.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/campaign-lark/landing.webp": {
+  "file": "projects/campaign-lark/landing.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/campaign-lark/workflow.webp": {
+  "file": "projects/campaign-lark/workflow.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/giftbede/laptop.webp": {
+  "file": "projects/giftbede/laptop.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/giftbede/phone.webp": {
+  "file": "projects/giftbede/phone.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/iconly/categories.webp": {
+  "file": "projects/iconly/categories.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/iconly/picker.webp": {
+  "file": "projects/iconly/picker.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/laelaps/img-1.png": {
+  "file": "projects/laelaps/img-1.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/projects/laelaps/laptop.webp": {
+  "file": "projects/laelaps/laptop.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/maileroo/collaborators.webp": {
+  "file": "projects/maileroo/collaborators.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/maileroo/sign-in.webp": {
+  "file": "projects/maileroo/sign-in.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/solsta/blog.webp": {
+  "file": "projects/solsta/blog.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/solsta/roadmap.webp": {
+  "file": "projects/solsta/roadmap.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/projects/wassie/img-1.png": {
+  "file": "projects/wassie/img-1.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/projects/wassie/problem.png": {
+  "file": "projects/wassie/problem.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/stills/case-campaign-lark.webp": {
+  "file": "stills/case-campaign-lark.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-giftbede.webp": {
+  "file": "stills/case-giftbede.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-iconly-pro.webp": {
+  "file": "stills/case-iconly-pro.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-laelaps.webp": {
+  "file": "stills/case-laelaps.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-maileroo.webp": {
+  "file": "stills/case-maileroo.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-solsta.webp": {
+  "file": "stills/case-solsta.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/case-wassieverse-canvas.webp": {
+  "file": "stills/case-wassieverse-canvas.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/playground-mobile.webp": {
+  "file": "stills/playground-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/process-mobile.webp": {
+  "file": "stills/process-mobile.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/stills/process.webp": {
+  "file": "stills/process.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-1.webp": {
+  "file": "textures/pages/page-1.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-10.webp": {
+  "file": "textures/pages/page-10.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-2.webp": {
+  "file": "textures/pages/page-2.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-3.webp": {
+  "file": "textures/pages/page-3.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-4.webp": {
+  "file": "textures/pages/page-4.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-5.webp": {
+  "file": "textures/pages/page-5.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-6.webp": {
+  "file": "textures/pages/page-6.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-7.webp": {
+  "file": "textures/pages/page-7.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-8.webp": {
+  "file": "textures/pages/page-8.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/pages/page-9.webp": {
+  "file": "textures/pages/page-9.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "https://www.gstatic.com/draco/versioned/decoders/1.5.5/draco_decoder.js": {
+  "file": "_ext/www.gstatic.com/draco/versioned/decoders/1.5.5/draco_decoder.js",
+  "status": 200,
+  "type": "text/javascript"
+ },
+ "/_next/static/chunks/a6dad97d9634a72d.js": {
+  "file": "_next/static/chunks/a6dad97d9634a72d.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/7544b74da22af756.js": {
+  "file": "_next/static/chunks/7544b74da22af756.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/1a3bf62b0e03121b.js": {
+  "file": "_next/static/chunks/1a3bf62b0e03121b.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/cb7b5655f3181fe9.js": {
+  "file": "_next/static/chunks/cb7b5655f3181fe9.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/55f7112f550c0292.js": {
+  "file": "_next/static/chunks/55f7112f550c0292.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/75978145a96533be.js": {
+  "file": "_next/static/chunks/75978145a96533be.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/c9dd50b2837f200e.js": {
+  "file": "_next/static/chunks/c9dd50b2837f200e.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/36016439caf2cb5b.js": {
+  "file": "_next/static/chunks/36016439caf2cb5b.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/a4fda578f356bb65.js": {
+  "file": "_next/static/chunks/a4fda578f356bb65.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/d6d7a09a3b58655e.js": {
+  "file": "_next/static/chunks/d6d7a09a3b58655e.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/7ebf9cd4d407135f.js": {
+  "file": "_next/static/chunks/7ebf9cd4d407135f.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/icon-192.png": {
+  "file": "icon-192.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/icon-512.png": {
+  "file": "icon-512.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/models/notebook.glb": {
+  "file": "models/notebook.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/rolodex.glb": {
+  "file": "models/rolodex.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/rolodex-cards.webp": {
+  "file": "textures/rolodex-cards.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/static/chunks/56139b05cbbca0c8.js": {
+  "file": "_next/static/chunks/56139b05cbbca0c8.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/72a1fece64faff08.js": {
+  "file": "_next/static/chunks/72a1fece64faff08.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/93eb36dafc831e5e.js": {
+  "file": "_next/static/chunks/93eb36dafc831e5e.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/173f018dc77a333c.js": {
+  "file": "_next/static/chunks/173f018dc77a333c.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/c0e2495ad1293db0.js": {
+  "file": "_next/static/chunks/c0e2495ad1293db0.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/a60efcc8265f8361.js": {
+  "file": "_next/static/chunks/a60efcc8265f8361.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/186e39c04fe3fead.js": {
+  "file": "_next/static/chunks/186e39c04fe3fead.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/models/arduino_uno.glb": {
+  "file": "models/arduino_uno.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/breadboard.glb": {
+  "file": "models/breadboard.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/cartridge.glb": {
+  "file": "models/cartridge.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/cube.glb": {
+  "file": "models/cube.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/cup.glb": {
+  "file": "models/cup.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/cursor.glb": {
+  "file": "models/cursor.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/floppy.glb": {
+  "file": "models/floppy.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/floppies/lark.webp": {
+  "file": "textures/floppies/lark.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/giftbede.webp": {
+  "file": "textures/floppies/giftbede.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/solsta.webp": {
+  "file": "textures/floppies/solsta.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/wassies.webp": {
+  "file": "textures/floppies/wassies.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/maileroo.webp": {
+  "file": "textures/floppies/maileroo.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/laelaps.webp": {
+  "file": "textures/floppies/laelaps.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/floppies/iconly.webp": {
+  "file": "textures/floppies/iconly.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/models/ghost-lamp.glb": {
+  "file": "models/ghost-lamp.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/handheld.glb": {
+  "file": "models/handheld.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/headphones-retro.glb": {
+  "file": "models/headphones-retro.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/frames/1.webp": {
+  "file": "textures/frames/1.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/frames/2.webp": {
+  "file": "textures/frames/2.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/textures/frames/3.webp": {
+  "file": "textures/frames/3.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/models/keyboard.glb": {
+  "file": "models/keyboard.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/lava-lamp.glb": {
+  "file": "models/lava-lamp.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/mac.glb": {
+  "file": "models/mac.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/magazines.glb": {
+  "file": "models/magazines.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/mouse.glb": {
+  "file": "models/mouse.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/famicom.glb": {
+  "file": "models/famicom.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/pointer.glb": {
+  "file": "models/pointer.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/sd-card.glb": {
+  "file": "models/sd-card.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/shelf.glb": {
+  "file": "models/shelf.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/gifs/mario-super.gif": {
+  "file": "gifs/mario-super.gif",
+  "status": 200,
+  "type": "image/gif"
+ },
+ "/gifs/battle-city-nes.gif": {
+  "file": "gifs/battle-city-nes.gif",
+  "status": 200,
+  "type": "image/gif"
+ },
+ "/gifs/funny-contra.gif": {
+  "file": "gifs/funny-contra.gif",
+  "status": 200,
+  "type": "image/gif"
+ },
+ "/gifs/contra-konami.gif": {
+  "file": "gifs/contra-konami.gif",
+  "status": 200,
+  "type": "image/gif"
+ },
+ "/models/crt-tv-new.glb": {
+  "file": "models/crt-tv-new.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/dvd.png": {
+  "file": "textures/dvd.png",
+  "status": 200,
+  "type": "image/png"
+ },
+ "/models/planet.glb": {
+  "file": "models/planet.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/robot.glb": {
+  "file": "models/robot.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/rocket.glb": {
+  "file": "models/rocket.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/study-lamp.glb": {
+  "file": "models/study-lamp.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/cutting-mat.webp": {
+  "file": "textures/cutting-mat.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/models/walkman.glb": {
+  "file": "models/walkman.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/cassette.glb": {
+  "file": "models/cassette.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/textures/wooden-desk.webp": {
+  "file": "textures/wooden-desk.webp",
+  "status": 200,
+  "type": "image/webp"
+ },
+ "/_next/static/chunks/87b4f51fc1d9dea8.js": {
+  "file": "_next/static/chunks/87b4f51fc1d9dea8.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/35e80ba72532e68e.js": {
+  "file": "_next/static/chunks/35e80ba72532e68e.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/1761b0c8fa911789.js": {
+  "file": "_next/static/chunks/1761b0c8fa911789.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/e8ed7a699c6e6676.js": {
+  "file": "_next/static/chunks/e8ed7a699c6e6676.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/3b0ad7bb6c0da723.js": {
+  "file": "_next/static/chunks/3b0ad7bb6c0da723.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/_next/static/chunks/775e92e0a7b5b6a9.js": {
+  "file": "_next/static/chunks/775e92e0a7b5b6a9.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/icons/Calendar.svg": {
+  "file": "icons/Calendar.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Work.svg": {
+  "file": "icons/Work.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Person.svg": {
+  "file": "icons/Person.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Attention.svg": {
+  "file": "icons/Attention.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Complete.svg": {
+  "file": "icons/Complete.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Favorites.svg": {
+  "file": "icons/Favorites.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Equalizer.svg": {
+  "file": "icons/Equalizer.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Levels_1.svg": {
+  "file": "icons/Levels_1.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Info.svg": {
+  "file": "icons/Info.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Share.svg": {
+  "file": "icons/Share.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Folder.svg": {
+  "file": "icons/Folder.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Play.svg": {
+  "file": "icons/Play.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Diary.svg": {
+  "file": "icons/Diary.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Protection.svg": {
+  "file": "icons/Protection.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Person_Added.svg": {
+  "file": "icons/Person_Added.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Chat.svg": {
+  "file": "icons/Chat.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Bubble.svg": {
+  "file": "icons/Bubble.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Levels_2.svg": {
+  "file": "icons/Levels_2.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Block.svg": {
+  "file": "icons/Block.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Bold.svg": {
+  "file": "icons/Bold.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Zoom.svg": {
+  "file": "icons/Zoom.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Image.svg": {
+  "file": "icons/Image.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Photo.svg": {
+  "file": "icons/Photo.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/tech-icons/graphql.svg": {
+  "file": "tech-icons/graphql.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Pointer_Arrow.svg": {
+  "file": "icons/Pointer_Arrow.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Replay.svg": {
+  "file": "icons/Replay.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Messages.svg": {
+  "file": "icons/Messages.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Hash.svg": {
+  "file": "icons/Hash.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Zoom_Up.svg": {
+  "file": "icons/Zoom_Up.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/icons/Show.svg": {
+  "file": "icons/Show.svg",
+  "status": 200,
+  "type": "image/svg+xml"
+ },
+ "/explore": {
+  "file": "explore/index.html",
+  "status": 200,
+  "type": "text/html; charset=utf-8"
+ },
+ "/explore?_rsc=2dl82 [rsc]": {
+  "file": "explore/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=2dl82 [rsc]": {
+  "file": "works/giftbede/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=2dl82 [rsc]": {
+  "file": "works/iconly-pro/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=1uqir [rsc]": {
+  "file": "works/giftbede/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=11den [rsc]": {
+  "file": "works/giftbede/index.html__q335bd8414135.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=xbn4f [rsc]": {
+  "file": "works/giftbede/index.html__q9281a7d68995.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=2dl82 [rsc]": {
+  "file": "works/solsta/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=2dl82 [rsc]": {
+  "file": "works/maileroo/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=2dl82 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=2dl82 [rsc]": {
+  "file": "works/campaign-lark/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=1uqir [rsc]": {
+  "file": "works/maileroo/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=2dl82 [rsc]": {
+  "file": "works/laelaps/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=nhha7 [rsc]": {
+  "file": "works/maileroo/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/maileroo?_rsc=860pv [rsc]": {
+  "file": "works/maileroo/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=1uqir [rsc]": {
+  "file": "works/solsta/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=nhha7 [rsc]": {
+  "file": "works/solsta/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank?_rsc=2dl82 [rsc]": {
+  "file": "tank/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/space-invader?_rsc=2dl82 [rsc]": {
+  "file": "space-invader/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=2dl82 [rsc]": {
+  "file": "tetris/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=2dl82 [rsc]": {
+  "file": "snake/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=2dl82 [rsc]": {
+  "file": "pac-man/index.html__qe40afafa9e7a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/space-invader?_rsc=1uqir [rsc]": {
+  "file": "space-invader/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=1uqir [rsc]": {
+  "file": "tetris/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=1uqir [rsc]": {
+  "file": "snake/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=p48q4 [rsc]": {
+  "file": "snake/index.html__qccf57a035a18.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=1uqir [rsc]": {
+  "file": "pac-man/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=1c0nj [rsc]": {
+  "file": "tetris/index.html__q16b5c6d980f4.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=3aisu [rsc]": {
+  "file": "pac-man/index.html__q435eb5abef4e.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/pac-man?_rsc=1550m [rsc]": {
+  "file": "pac-man/index.html__qaf2db84c0833.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/snake?_rsc=63ud8 [rsc]": {
+  "file": "snake/index.html__q8d99c385bb75.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tetris?_rsc=6qtde [rsc]": {
+  "file": "tetris/index.html__qda2594e64dac.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/space-invader?_rsc=1lumj [rsc]": {
+  "file": "space-invader/index.html__qa3f45ea064b2.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/space-invader?_rsc=1nlo6 [rsc]": {
+  "file": "space-invader/index.html__q6996c68c5c89.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank?_rsc=1ymk7 [rsc]": {
+  "file": "tank/index.html__q84a3afc2a18a.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank?_rsc=1uqir [rsc]": {
+  "file": "tank/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/tank?_rsc=v3nhe [rsc]": {
+  "file": "tank/index.html__q8edc978b5c9c.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=1uqir [rsc]": {
+  "file": "works/laelaps/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=1uqir [rsc]": {
+  "file": "works/campaign-lark/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/solsta?_rsc=860pv [rsc]": {
+  "file": "works/solsta/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=nhha7 [rsc]": {
+  "file": "works/campaign-lark/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=860pv [rsc]": {
+  "file": "works/campaign-lark/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=1uqir [rsc]": {
+  "file": "works/iconly-pro/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=nhha7 [rsc]": {
+  "file": "works/laelaps/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=nhha7 [rsc]": {
+  "file": "works/giftbede/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/laelaps?_rsc=860pv [rsc]": {
+  "file": "works/laelaps/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/giftbede?_rsc=860pv [rsc]": {
+  "file": "works/giftbede/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=860pv [rsc]": {
+  "file": "works/iconly-pro/index.html__qc56534b20b84.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/iconly-pro?_rsc=nhha7 [rsc]": {
+  "file": "works/iconly-pro/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "https://www.c-na.dev/a8313d25-43e9-449c-ae48-b42e18591ca2": {
+  "file": "https_//www.c-na.dev/a8313d25-43e9-449c-ae48-b42e18591ca2/index.html",
+  "status": 200,
+  "type": ""
+ },
+ "https://www.c-na.dev/7783e6f2-ba9e-4b90-9039-4586727de940": {
+  "file": "https_//www.c-na.dev/7783e6f2-ba9e-4b90-9039-4586727de940/index.html",
+  "status": 200,
+  "type": ""
+ },
+ "/explore?_rsc=1tih1 [rsc]": {
+  "file": "explore/index.html__qc4e28b3feb72.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=1uqir [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q178f886ca395.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/wassieverse-canvas?_rsc=nhha7 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__qc4a5807efaae.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "https://www.c-na.dev/52408bb4-3761-4ed0-b683-9c962e0d272c": {
+  "file": "https_//www.c-na.dev/52408bb4-3761-4ed0-b683-9c962e0d272c/index.html",
+  "status": 200,
+  "type": ""
+ },
+ "/works/wassieverse-canvas?_rsc=tl418 [rsc]": {
+  "file": "works/wassieverse-canvas/index.html__q5e6748f0cf88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/works/campaign-lark?_rsc=tl418 [rsc]": {
+  "file": "works/campaign-lark/index.html__q5e6748f0cf88.rsc",
+  "status": 200,
+  "type": "text/x-component"
+ },
+ "/models/cartridge-holder-5.glb": {
+  "file": "models/cartridge-holder-5.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/floppy-holder-7.glb": {
+  "file": "models/floppy-holder-7.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/books-crt.glb": {
+  "file": "models/books-crt.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/models/books-shelf.glb": {
+  "file": "models/books-shelf.glb",
+  "status": 200,
+  "type": "model/gltf-binary"
+ },
+ "/draco/draco_wasm_wrapper.js": {
+  "file": "draco/draco_wasm_wrapper.js",
+  "status": 200,
+  "type": "application/javascript; charset=utf-8"
+ },
+ "/draco/draco_decoder.wasm": {
+  "file": "draco/draco_decoder.wasm",
+  "status": 200,
+  "type": "application/wasm"
+ }
+}
